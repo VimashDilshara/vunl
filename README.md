@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ CVE-2026-43284 - Dirty Frag
+# 🚨 CVE-2026-43284 - Dirty Frag 🚨
 
 <img width="1774" height="887" alt="ChatGPT Image May 8, 2026, 06_21_04 PM" src="https://github.com/user-attachments/assets/07c44d1d-d26c-40bf-b380-0d2f1adb9a3b" />
 
@@ -49,7 +49,7 @@ This provides a powerful **arbitrary page cache write primitive**, which can be 
 
 ---
 
-## Demo
+## 📸 Demo
 
 <img width="517" height="211" alt="CVE-2026-43284" src="https://github.com/user-attachments/assets/5a1fdbc4-59b8-4ceb-83c4-f6681a7e8255" />
 
